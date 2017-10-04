@@ -4,7 +4,7 @@
 ### Javascript
 * [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa) by Quentin Watt
 * [Javascript Tutorial for Beginners](https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv) by LearnCode.Academy
-* [Javascript 30][https://javascript30.com] by Wes Bos
+* [Javascript 30](https://javascript30.com) by Wes Bos
 
 ## CSS
 * [Flex Box](https://flexbox.io) by Wes Bos
