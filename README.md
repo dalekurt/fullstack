@@ -6,6 +6,7 @@
 ### Javascript
 * [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa) by Quentin Watt
 * [Javascript Tutorial for Beginners](https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv) by LearnCode.Academy
+* [Javascipt DOM Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V) by The Net Ninja
 * [Javascript 30](https://javascript30.com) by Wes Bos
 
 ### CSS
